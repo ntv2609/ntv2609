@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/ntv2609/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="ntv2609@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 💫 About Me
+### About Me
 
 I am a dedicated **Frontend Developer** and an Information Technology student with a strong passion for turning complex problems into elegant, user-centric, and responsive web applications. I love bringing designs to life and constantly exploring modern web technologies to optimize performance and user experience.
 
@@ -25,7 +25,7 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <!-- Languages -->
@@ -56,7 +56,7 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ntv2609&show_icons=true&theme=tokyonight&count_private=true" alt="Vinh's GitHub Stats" height="180px"/>
@@ -69,7 +69,7 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/ntv2609/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 - 📧 **Email:** [ntv2609@gmail.com](mailto:your.email@gmail.com)
