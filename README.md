@@ -75,4 +75,4 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 - 📧 **Email:** [ntv2609@gmail.com](mailto:your.email@gmail.com)
 - 🌐 **Portfolio/Demo:** https://vinh-nguyen-portfolio.vercel.app/
 
-<p align="center">⚡ "Simplicity is the soul of efficiency." — Austin Freeman</p>
+<p align="center">"Simplicity is the soul of efficiency." - Austin Freeman</p>
