@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/ntv2609/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="ntv2609@gmail.com">
+  <a href="mailto:ntv2609@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -73,6 +73,6 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/ntv2609/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 - 📧 **Email:** [ntv2609@gmail.com](mailto:your.email@gmail.com)
-- 🌐 **Portfolio/Demo:** https://vinh-nguyen-portfolio.vercel.app/
+- 🌐 **Portfolio/Demo:** [https://vinh-nguyen-portfolio.vercel.app/](https://vinh-nguyen-portfolio.vercel.app/)
 
 <p align="center">"Simplicity is the soul of efficiency." - Austin Freeman</p>
