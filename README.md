@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vinh Nguyen 👋</h1>
+<h1 align="center">Hi there, I'm Vinh Nguyen</h1>
 <p align="center">
   <strong>Passionate Frontend Developer | Crafting Pixel-Perfect & Responsive Web Experiences</strong>
 </p>
@@ -71,8 +71,8 @@ I am a dedicated **Frontend Developer** and an Information Technology student wi
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
-- 🌐 **Portfolio/Demo:** *Coming soon / Insert your link here*
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/ntv2609/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 📧 **Email:** [ntv2609@gmail.com](mailto:your.email@gmail.com)
+- 🌐 **Portfolio/Demo:** https://vinh-nguyen-portfolio.vercel.app/
 
 <p align="center">⚡ "Simplicity is the soul of efficiency." — Austin Freeman</p>
