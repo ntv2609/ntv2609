@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vinh Nguyen</h1>
 <p align="center">
-  <strong>Passionate Frontend Developer | Crafting Pixel-Perfect & Responsive Web Experiences</strong>
+  <strong>Fullstack Developer | Crafting Pixel-Perfect & Responsive Web Experiences</strong>
 </p>
 
 <p align="center">
