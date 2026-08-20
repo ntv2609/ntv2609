@@ -1,76 +1,83 @@
-<h1 align="center">Hi there, I'm Vinh Nguyen</h1>
-<p align="center">
-  <strong>Fullstack Developer | Crafting Pixel-Perfect & Responsive Web Experiences</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ntv2609/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ntv2609@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:38B2AC&height=220&section=header&text=Vinh%20Nguyen&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Crafting%20Pixel-Perfect%20%26%20Responsive%20Web%20Experiences&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/ntv2609/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ntv2609@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://vinh-nguyen-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
-### About Me
+<img src="https://komarev.com/ghpvc/?username=ntv2609&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-I am a dedicated **Frontend Developer** and an Information Technology student with a strong passion for turning complex problems into elegant, user-centric, and responsive web applications. I love bringing designs to life and constantly exploring modern web technologies to optimize performance and user experience.
+</div>
 
-- 🚀 Currently focusing on building scalable web apps with **React.js** and **Next.js**.
-- 🛠️ Dedicated to writing clean, maintainable, and semantic code.
-- 🎨 Interested in modern UI/UX design, responsive layouts, and web performance optimization.
-- 💬 Ask me about **JavaScript, React, or responsive web layouts**.
+<br/>
 
----
+## 👋 About Me
 
-### Tech Stack & Tools
+I'm a **Frontend Developer** and Information Technology student who loves turning complex problems into elegant, user-centric, and responsive web applications. I enjoy bringing designs to life and constantly explore modern web technologies to optimize performance and user experience.
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="30"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
-  
-  <br/>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="30"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" height="30"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30"/>
-  
-  <br/>
-  
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="30"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&clock&logo=github&logoColor=white" alt="GitHub" height="30"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="30"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="30"/>
-</p>
+```yaml
+name: Vinh Nguyen
+role: Frontend / Fullstack Developer
+focus: React.js & Next.js — scalable, high-performance web apps
+currently_learning: Advanced TypeScript patterns, Web Performance
+ask_me_about: [JavaScript, React, Responsive Design, UI/UX]
+fun_fact: "Simplicity is the soul of efficiency." — Austin Freeman
+```
 
----
+- 🚀 Currently building scalable web apps with **React.js** and **Next.js**
+- 🛠️ Focused on writing clean, maintainable, semantic code
+- 🎨 Passionate about UI/UX, responsive layouts, and web performance
+- 📚 Actively growing my skills as an IT student
+- 💬 Open to chat about **JavaScript, React, or frontend architecture**
 
-### GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntv2609&show_icons=true&theme=tokyonight&count_private=true" alt="Vinh's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntv2609&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-</p>
+## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntv2609&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp" height="45"/>
 
-### Connect with Me
+**Frameworks & Styling**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45"/>
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/ntv2609/](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 📧 **Email:** [ntv2609@gmail.com](mailto:your.email@gmail.com)
-- 🌐 **Portfolio/Demo:** [https://vinh-nguyen-portfolio.vercel.app/](https://vinh-nguyen-portfolio.vercel.app/)
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" height="45"/>
 
-<p align="center">"Simplicity is the soul of efficiency." - Austin Freeman</p>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ntv2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vinh's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntv2609&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ntv2609&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ntv2609&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ntv2609/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ntv2609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://vinh-nguyen-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:0077B5&height=100&section=footer"/>
