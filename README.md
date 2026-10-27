@@ -52,6 +52,7 @@ I am an Information Technology student at Hanoi University of Industry transitio
 <img src="https://img.shields.io/badge/Figma-141417?style=flat-square&logo=figma&logoColor=D4AF37" alt="Figma" />
 <img src="https://img.shields.io/badge/Postman-141417?style=flat-square&logo=postman&logoColor=D4AF37" alt="Postman" />
 <img src="https://img.shields.io/badge/Vercel-141417?style=flat-square&logo=vercel&logoColor=D4AF37" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-141417?style=flat-square&logo=render&logoColor=D4AF37" alt="Render" />
 </td>
 </tr>
 </table>
