@@ -1,188 +1,87 @@
 <div align="center">
-<h1>Vinh Nguyen — Portfolio & Engineering Showcase</h1>
-<p>A fast, accessible developer portfolio and technical showcase built with Next.js, TypeScript, and Tailwind CSS.</p>
-<p>
-<a href="https://vinh-nguyen-portfolio.vercel.app"><strong>Live Production</strong></a> ·
-<a href="https://www.linkedin.com/in/ntv2609/"><strong>LinkedIn</strong></a> ·
-<a href="mailto:ntv2609@gmail.com"><strong>Contact</strong></a>
-</p>
-<p>
-<img src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-19-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-5.x-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-3.4-111827?style=flat-square&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Deployment-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0F12,100:1A1A20&height=170&section=header&text=THE%20VINH%20NGUYEN&fontSize=36&fontColor=D4AF37&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20IT%20Student&descSize=15&descColor=A0A0A8&descAlignY=68&stroke=D4AF37&strokeWidth=1" width="100%" alt="Header Banner" />
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+fast%2C+accessible+web+interfaces+with+React+%26+Next.js;Expanding+into+backend+systems+with+Node.js+%26+MongoDB;Focused+on+clean+architecture%2C+type+safety%2C+and+web+performance" alt="Typing SVG" />
+</a>
+
+<a href="https://vinh-nguyen-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-141417?style=flat-square&logo=vercel&logoColor=D4AF37&labelColor=0F0F12" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ntv2609/">
+<img src="https://img.shields.io/badge/LINKEDIN-141417?style=flat-square&logo=linkedin&logoColor=D4AF37&labelColor=0F0F12" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:ntv2609@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-141417?style=flat-square&logo=gmail&logoColor=D4AF37&labelColor=0F0F12" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/ntv2609">
+<img src="https://img.shields.io/badge/GITHUB-141417?style=flat-square&logo=github&logoColor=D4AF37&labelColor=0F0F12" alt="GitHub" />
+</a>
+
 </div>
 
-## Overview & Visual Preview
+### ⚡ About Me
+
+I am an Information Technology student transitioning from frontend development into full-stack engineering. My core strength lies in building responsive, type-safe user interfaces with **React**, **Next.js**, and **TypeScript**, while developing RESTful APIs and database schemas using **Node.js** and **MongoDB**. I prioritize maintainable code, predictable state management, and fast load times over unnecessary complexity. Currently open to **Frontend** and **Full-Stack Developer** internships or junior roles.
+
+### 🛠️ Tech Stack & Tools
+
+<table width="100%">
+<tr>
+<td width="22%"><b>Frontend</b></td>
+<td width="78%">
+<img src="https://img.shields.io/badge/TypeScript-141417?style=flat-square&logo=typescript&logoColor=D4AF37" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-141417?style=flat-square&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-141417?style=flat-square&logo=react&logoColor=D4AF37" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-141417?style=flat-square&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-141417?style=flat-square&logo=tailwindcss&logoColor=D4AF37" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/HTML5-141417?style=flat-square&logo=html5&logoColor=D4AF37" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-141417?style=flat-square&logo=css3&logoColor=D4AF37" alt="CSS3" />
+</td>
+</tr>
+<tr>
+<td><b>Backend & Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-141417?style=flat-square&logo=nodedotjs&logoColor=D4AF37" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-141417?style=flat-square&logo=express&logoColor=D4AF37" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-141417?style=flat-square&logo=mongodb&logoColor=D4AF37" alt="MongoDB" />
+<img src="https://img.shields.io/badge/REST_API-141417?style=flat-square&logo=fastapi&logoColor=D4AF37" alt="REST API" />
+<img src="https://img.shields.io/badge/C++-141417?style=flat-square&logo=cplusplus&logoColor=D4AF37" alt="C++" />
+</td>
+</tr>
+<tr>
+<td><b>Tools & Workflow</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-141417?style=flat-square&logo=git&logoColor=D4AF37" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-141417?style=flat-square&logo=github&logoColor=D4AF37" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-141417?style=flat-square&logo=visualstudiocode&logoColor=D4AF37" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-141417?style=flat-square&logo=figma&logoColor=D4AF37" alt="Figma" />
+<img src="https://img.shields.io/badge/Postman-141417?style=flat-square&logo=postman&logoColor=D4AF37" alt="Postman" />
+<img src="https://img.shields.io/badge/Vercel-141417?style=flat-square&logo=vercel&logoColor=D4AF37" alt="Vercel" />
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-<!-- Replace the placeholder URL below with your actual screenshot or demo GIF -->
-<!-- Recommended aspect ratio: 16:9 (e.g., 1600x900px) in WebP or optimized PNG/GIF -->
-<a href="https://vinh-nguyen-portfolio.vercel.app">
-<img src="f:\portfolio_demo_pic.png" alt="Vinh Nguyen Portfolio Preview" width="100%" />
-</a>
-<p><sub><em>Figure 1: Application interface and interactive layout system running on <a href="https://vinh-nguyen-portfolio.vercel.app">vinh-nguyen-portfolio.vercel.app</a>. Replace <code>public/preview.webp</code> or the image URL above with a real screen capture.</em></sub></p>
+<table width="100%">
+<tr>
+<td width="55%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api?username=ntv2609&show_icons=true&bg_color=0F0F12&title_color=D4AF37&text_color=E4E4E7&icon_color=D4AF37&border_color=27272A&hide_border=false&count_private=true&rank_icon=percentile" width="100%" alt="GitHub Stats" />
+</td>
+<td width="45%" align="center" valign="middle">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntv2609&layout=compact&langs_count=6&bg_color=0F0F12&title_color=D4AF37&text_color=E4E4E7&border_color=27272A&hide_border=false" width="100%" alt="Top Languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="middle">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ntv2609&background=0F0F12&border=27272A&stroke=27272A&ring=D4AF37&fire=D4AF37&currStreakNum=E4E4E7&sideNums=E4E4E7&currStreakLabel=D4AF37&sideLabels=A0A0A8&dates=71717A" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </div>
-
-> \[!NOTE\]
-> **Using this file as a GitHub Profile README (`ntv2609/ntv2609`)?**
->
-> See the ready-to-use minimalist profile block in the **GitHub Profile Mode** section at the bottom of this document.
-
-## Key Features
-
-* **Server-First Rendering Architecture**: Built on the Next.js App Router with React Server Components (RSC) to ship minimal client-side JavaScript and achieve sub-second First Contentful Paint (FCP).
-
-* **Strict End-to-End Type Safety**: Enforced via TypeScript with strict compiler flags (`strict: true`, `noUncheckedIndexedAccess`), eliminating runtime type regressions across components and data layers.
-
-* **Deterministic Design System**: Engineered with Tailwind CSS design tokens, fluid typography scales, and hardware-accelerated CSS transitions for consistent 60fps interaction across viewports.
-
-* **Zero-Runtime Content Pipeline**: Static generation (SSG) with Incremental Static Regeneration (ISR) for project case studies and engineering notes, ensuring instant edge delivery via Vercel CDN.
-
-* **Semantic Accessibility & SEO**: Full WAI-ARIA compliance, keyboard-navigable interactive primitives, dynamic OpenGraph image generation, and automated XML sitemap indexing.
-
-## Tech Stack
-
-| 
-
-| **Layer** | **Technology** | **Purpose** | 
-| **Framework** | `Next.js (App Router)` | Hybrid SSR/SSG routing, Server Components, and Edge API routes | 
-| **Language** | `TypeScript 5.x` | Static type checking and interface contracts | 
-| **UI & Styling** | `React 19`, `Tailwind CSS` | Component architecture, utility-first styling, and dark-mode tokens | 
-| **Tooling & DX** | `ESLint`, `Prettier`, `Git` | Static code analysis, formatting, and version control | 
-| **Infrastructure** | `Vercel Edge Network` | CI/CD preview deployments, edge caching, and Web Analytics | 
-
-## Architecture & Request Lifecycle
-
-The application separates static content compilation from interactive client islands, keeping the JavaScript bundle lean while supporting rich UI interactions.
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                         Client Browser / Viewport                       │
-└───────────────────┬─────────────────────────────────┬───────────────────┘
-                    │ HTTPS Request                   │ Hydrate Interactive
-                    ▼                                 │ Islands Only
-┌───────────────────────────────────────┐             │
-│          Vercel Edge Network          │             │
-│   (Global CDN · Brotli · TLS 1.3)     │             │
-└───────────────────┬───────────────────┘             │
-                    │ Cache Miss / Revalidate         │
-                    ▼                                 │
-┌─────────────────────────────────────────────────────┴───────────────────┐
-│                         Next.js App Router Runtime                      │
-│                                                                         │
-│  ┌─────────────────────────────────┐  ┌──────────────────────────────┐  │
-│  │   React Server Components (RSC) │  │    Client Components ('use   │  │
-│  │  • Layouts & Route Shells       │  │    client')                  │  │
-│  │  • Project Case Study MDX/Data  │  │  • Command Palette / Filter  │  │
-│  │  • Dynamic Metadata & OpenGraph │  │  • Theme & Motion Controllers│  │
-│  └────────────────┬────────────────┘  └──────────────────────────────┘  │
-└───────────────────┼─────────────────────────────────────────────────────┘
-                    │ Build-Time / ISR Validation
-                    ▼
-┌─────────────────────────────────────────────────────────────────────────┐
-│                     Typed Content & Asset Layer                         │
-│             src/data/*.ts  ·  src/content/*.mdx  ·  public/*            │
-└─────────────────────────────────────────────────────────────────────────┘
-
-```
-
-### Directory Structure
-
-```
-.
-├── public/                 # Static assets, fonts, OpenGraph images
-├── src/
-│   ├── app/                # Next.js App Router pages, layouts, and metadata
-│   ├── components/
-│   │   ├── ui/             # Low-level reusable design system primitives
-│   │   └── sections/       # Page-level feature modules (Hero, Projects, Contact)
-│   ├── content/            # Project case studies and structured portfolio data
-│   ├── lib/                # Utility functions, class mergers, and constants
-│   └── types/              # Shared TypeScript interfaces and domain models
-├── next.config.mjs         # Next.js compiler and headers configuration
-├── tailwind.config.ts      # Design tokens, color palette, and typography scale
-└── tsconfig.json           # TypeScript strict compiler configuration
-
-```
-
-## Getting Started
-
-### Prerequisites
-
-* **Node.js**: `>= 20.0.0` (LTS recommended)
-
-* **Package Manager**: `pnpm` (`>= 9.0.0`), `npm`, or `bun`
-
-### Installation
-
-```
-# 1. Clone the repository
-git clone https://github.com/ntv2609/vinh-nguyen-portfolio.git
-cd vinh-nguyen-portfolio
-
-# 2. Install dependencies
-pnpm install
-
-# 3. Bootstrap local environment variables
-cp .env.example .env.local
-
-```
-
-### Local Development & Production Build
-
-```
-# Start the local development server with Fast Refresh (http://localhost:3000)
-pnpm dev
-
-# Run static type checking and linter verification
-pnpm typecheck && pnpm lint
-
-# Compile and verify an optimized production build locally
-pnpm build && pnpm start
-
-```
-
-## Configuration & Environment Variables
-
-Create a `.env.local` file in the root directory. All client-exposed variables must be prefixed with `NEXT_PUBLIC_`.
-
-| **Variable** | **Type** | **Required** | **Default** | **Description** | 
-| `NEXT_PUBLIC_SITE_URL` | `string` | Yes | `http://localhost:3000` | Canonical base URL used for OpenGraph metadata and sitemaps | 
-| `NEXT_PUBLIC_CONTACT_EMAIL` | `string` | No | `ntv2609@gmail.com` | Public contact address rendered in the footer and command menu | 
-| `RESEND_API_KEY` | `string` | No | `—` | Server-side API key for transactional contact form emails | 
-| `NEXT_PUBLIC_ENABLE_ANALYTICS` | `boolean` | No | `false` | Toggles Vercel Web Analytics and Speed Insights in production | 
-
-## GitHub Profile Mode (Optional)
-
-<details>
-<summary><strong>Click to expand: Minimalist GitHub Profile README (for <code>ntv2609/ntv2609</code>)</strong></summary>
-
-<br />
-
-If you are using this file for your personal GitHub Profile repository (`ntv2609/ntv2609`) rather than a single project repository, you can replace the sections above with this stripped-down, zero-slop engineering profile block:
-
-```
-### Vinh Nguyen
-
-Frontend Engineer focused on high-performance web applications, design systems, and React/Next.js architecture.
-
-- **Focus**: React Server Components, TypeScript type-level design, web performance (Core Web Vitals), and accessible UI primitives.
-- **Stack**: TypeScript, React, Next.js, Tailwind CSS, C++, Git, Vercel.
-- **Links**: [vinh-nguyen-portfolio.vercel.app](https://vinh-nguyen-portfolio.vercel.app) · [LinkedIn (in/ntv2609)](https://www.linkedin.com/in/ntv2609/) · [ntv2609@gmail.com](mailto:ntv2609@gmail.com)
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | TypeScript, JavaScript (ES2024), C++, HTML5, CSS3 |
-| **Frontend & UI** | React, Next.js (App Router), Tailwind CSS, CSS Modules, Figma |
-| **Tooling & Infra** | Git, GitHub Actions, Vercel, ESLint, Vite, VS Code |
-
-```
-
-</details>
-
-## License
-
-Released under the **MIT License**. Built and maintained by [Vinh Nguyen](https://github.com/ntv2609).
